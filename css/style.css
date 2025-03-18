@@ -1,0 +1,30 @@
+body{
+    background: #000;
+    header{
+            div{
+                    border: 2px solid aquamarine;
+                    background-color: antiquewhite;
+                    h1, h2{
+                        color:aquamarine;
+                    }
+                }
+         } 
+         section{
+            div{
+                    border: 2px solid rgb(171, 255, 75);
+                    background-color: rgb(9, 130, 92);
+                    h1, h2{
+                        color:rgba(246, 255, 0, 0.488);
+                    }
+                }
+         }  
+         footer{
+            div{
+                    border: 2px solid rgb(188, 69, 232);
+                    background-color: rgb(255, 255, 255);
+                    h1{
+                        color:rgb(88, 28, 137);
+                    }
+                }
+         }         
+}
